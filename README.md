@@ -28,3 +28,5 @@ Dataset Columns| Info
   Case_Fatality_Ratio| In epidemiology, a case fatality risk or case-fatality ratio – is the proportion of deaths from a certain disease compared to the total      number of people diagnosed with the disease for a particular period.
   Lat| Latitude
   Long| Longitude
+
+Original Datasource : https://github.com/CSSEGISandData/COVID-19
