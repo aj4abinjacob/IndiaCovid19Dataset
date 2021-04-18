@@ -24,7 +24,7 @@ Dataset Columns| Info
   Deaths| Number of deaths
   Recovered| Number of recoveries
   Active| Number of active cases
-  Incident_Rate| Incidence measures how many new COVID cases there are per day per unit of population
+  Incident_Rate| Incidence measures how many new COVID cases there are per day per unit of population.
   Case_Fatality_Ratio| In epidemiology, a case fatality risk or case-fatality ratio – is the proportion of deaths from a certain disease compared to the total      number of people diagnosed with the disease for a particular period.
   Lat| Latitude
   Long| Longitude
