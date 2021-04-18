@@ -15,7 +15,7 @@ Dataset Columns:
   Lat
   Long
 Dataset Columns| Info
-------------- |
+------------- | ------------- 
   State| State or Union territory
   Country|
   Date|
