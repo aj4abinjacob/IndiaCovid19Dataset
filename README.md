@@ -18,7 +18,7 @@ Dataset Columns| Info
 ------------- | ------------- 
   State| State or Union territory
   Country| Default Value : India
-  Date| Date the data was uploaded
+  Date| Date the data was uploaded (Year-Month-Day)
   Time| Time the data was uploaded
   Confirmed| Counts include confirmed and probable (where reported).
   Deaths| Counts include confirmed and probable (where reported).
