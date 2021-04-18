@@ -20,12 +20,12 @@ Dataset Columns| Info
   Country| Default Value : India
   Date| Date the data was uploaded
   Time| Time the data was uploaded
-  Confirmed| Confrimed Cases
-  Deaths| Number of deaths
-  Recovered| Number of recoveries
-  Active| Number of active cases
-  Incident_Rate| Incidence measures how many new COVID cases there are per day per unit of population.
-  Case_Fatality_Ratio| In epidemiology, a case fatality risk or case-fatality ratio – is the proportion of deaths from a certain disease compared to the total      number of people diagnosed with the disease for a particular period.
+  Confirmed| Counts include confirmed and probable (where reported).
+  Deaths| Counts include confirmed and probable (where reported).
+  Recovered| Recovered cases are estimates based on local media reports, and state and local reporting when available, and therefore may be substantially lower than the true number.
+  Active|Active cases = total cases - total recovered - total deaths.
+  Incident_Rate|Incidence Rate = cases per 100,000 persons.
+  Case_Fatality_Ratio| Case-Fatality Ratio (%) = Number recorded deaths / Number cases.
   Lat| Latitude
   Long| Longitude
 
