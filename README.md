@@ -14,3 +14,17 @@ Dataset Columns:
   Case_Fatality_Ratio
   Lat
   Long
+Dataset Columns| 
+------------- |
+  State|
+  Country|
+  Date|
+  Time|
+  Confirmed|
+  Deaths|
+  Recovered|
+  Active|
+  Incident_Rate|
+  Case_Fatality_Ratio|
+  Lat|
+  Long| 
