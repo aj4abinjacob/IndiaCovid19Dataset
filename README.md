@@ -29,5 +29,5 @@ Dataset Columns| Info
   2020-08-19 ,2020-09-14 ,2020-09-17 ,2020-09-18 ,2020-09-19 ,2020-09-20 ,2020-09-21 ,2020-09-22 ,2020-09-23 ,2020-09-24 ,2020-09-25 ,2020-09-26,2020-09-28
 
 
-Original Datasources : https://github.com/CSSEGISandData/COVID-19
+Original Datasources : https://github.com/CSSEGISandData/COVID-19 <br/>
                        https://github.com/h2oai/covid19-datasets 
