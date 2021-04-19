@@ -30,4 +30,4 @@ Dataset Columns| Info
 
 
 Original Datasources : https://github.com/CSSEGISandData/COVID-19 <br/>
-                       https://github.com/h2oai/covid19-datasets 
+<p>                    https://github.com/h2oai/covid19-datasets 
