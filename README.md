@@ -30,5 +30,5 @@ Dataset Columns| Info
 
 
 ### Original Datasources :
-⋅⋅* https://github.com/CSSEGISandData/COVID-19 
-⋅⋅* https://github.com/h2oai/covid19-datasets 
+1. https://github.com/CSSEGISandData/COVID-19 
+2. https://github.com/h2oai/covid19-datasets 
