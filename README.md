@@ -6,7 +6,6 @@ Dataset Columns| Info
 ------------- | ------------- 
   State| State or Union territory
   Date| Date the data was uploaded (Year-Month-Day)
-  Time| Time the data was uploaded
   Confirmed| Counts include confirmed and probable (where reported).
   Deaths| Counts include confirmed and probable (where reported).
   Recovered| Recovered cases are estimates based on local media reports, and state and local reporting when available, and therefore may be substantially lower than the true number.
