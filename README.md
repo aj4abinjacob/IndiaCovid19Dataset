@@ -4,7 +4,7 @@
 ### Dataset info
 Dataset Columns| Info
 ------------- | ------------- 
-  State| State or Union territory
+  State| State Or Union territory
   Date| Date the data was uploaded (Year-Month-Day)
   Confirmed| Counts include confirmed and probable (where reported).
   Deaths| Counts include confirmed and probable (where reported).
