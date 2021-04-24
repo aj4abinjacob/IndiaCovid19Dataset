@@ -1,5 +1,5 @@
 # IndiaCovid19Dataset
-## Data from 2020-01-30 	to  2021-04-22 
+## Data from 2020-01-30 	to  2021-04-23 
 
 ### Dataset info
 Dataset Columns| Info
